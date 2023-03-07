@@ -1,0 +1,6 @@
+.container-rating {
+  display: flex;
+  align-items: center;
+  background-color: #3b82f6;
+  border-radius: 6px;
+}

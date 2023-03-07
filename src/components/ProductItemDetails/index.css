@@ -1,0 +1,70 @@
+.bg-card-container {
+  display: flex;
+  justify-content: center;
+}
+
+.image-product {
+  width: 500px;
+  height: 600px;
+  padding-right: 30px;
+}
+.rating-container {
+  display: flex;
+  align-items: center;
+  background-color: #3b82f6;
+  border-radius: 6px;
+  padding: 6px 16px;
+  width: 70px;
+}
+
+.rating {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  margin-right: 4px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.heading-container {
+  width: 30%;
+}
+
+.star-image {
+  height: 20px;
+  width: 20px;
+  margin-bottom: 3px;
+}
+
+.rating-reviews {
+  display: flex;
+}
+
+.total-reviews {
+  margin-left: 10px;
+}
+
+.horizontal-line {
+  border: 1px solid #616e7c;
+}
+
+.button-Container {
+  display: flex;
+  align-items: center;
+}
+.count-total {
+  font-family: 'Roboto';
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.add-cart {
+  background-color: #3b82f6;
+  color: #ffffff;
+  font-family: 'Roboto';
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
